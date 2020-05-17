@@ -29,10 +29,6 @@ body{
   height: 11em;
 	object-fit: fill;
 }
-.thumbnail img {
-  width: 18em;
-  height: 11em;
-}
 
 p{
 display:inline-block;
