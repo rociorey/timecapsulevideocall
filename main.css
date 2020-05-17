@@ -40,6 +40,15 @@ font-family: Arial, Helvetica, sans-serif;
 color:white;
 }
 
+.bottom-row{
+
+	width:90%;
+	height:70%;
+	margin-top: 250px;
+	position: absolute;
+  	left: 50%;
+  	transform: translateX(-50%);
+}
 
 .inner{
 	width:300px;
