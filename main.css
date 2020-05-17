@@ -25,8 +25,12 @@ body{
 }
 
 .thumbnail video {
-  width: 13em;
-  height: 10em;
+  width: 300px;
+  height: 200px;
+}
+.thumbnail img {
+  width: 300px;
+  height: 200px;
 }
 
 p{
@@ -46,7 +50,7 @@ color:white;
 position: absolute;
 left: 50%;
 transform: translateX(-50%);
-bottom: 200px;
+bottom: -100px;
 
 }
 
