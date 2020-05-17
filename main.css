@@ -4,8 +4,8 @@ body{
 
 .main-container {
   position: relative;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
 }
 
 .top-row {
@@ -19,7 +19,7 @@ body{
 
 .thumbnail {
   display: inline;
-  margin-left: 10px;
+  margin-left: 13px;
   margin-right: 10px;
   position: relative;
 }
